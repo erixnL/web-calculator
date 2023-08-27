@@ -1,4 +1,6 @@
 # A calculator
+![image](https://github.com/erixnL/web-calculator/assets/96608889/5d7ce5c1-3046-45ef-a660-4f3afd6dd5d5)
+
 
 ## Key points:
 - Change the scope of addEventListener function from the botton section to all the actual buttons by using querySelectorAll and forEach().
